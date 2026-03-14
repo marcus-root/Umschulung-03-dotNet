@@ -1,0 +1,59 @@
+<Solution>
+  <Folder Name="/01 - Ausgaben/" />
+  <Folder Name="/01 - Ausgaben/01 - Texte und Steuerzeichen/">
+    <File Path="Aufgabe.txt" />
+    <Project Path="Aufgaben aus meiner Umschulung/01 GdP - 01 - 01.csproj" />
+  </Folder>
+  <Folder Name="/01 - Ausgaben/03 - Berechnungen, Temperaturen, Volumen, Oberfläche/">
+    <Project Path="01 GdP - 01 - 03/01 GdP - 01 - 03.csproj" Id="ba9ceccf-3c8c-4d00-bf56-502ac7f3e461" />
+  </Folder>
+  <Folder Name="/01 - Ausgaben/04 - Berechnungen, Widerstände/" />
+  <Folder Name="/01 - Ausgaben/05 - Einfache Berechnungen, Brutto, Netto/" />
+  <Folder Name="/01 - Ausgaben/06 - Einfache Berechnungen, Modulo-Operator/" />
+  <Folder Name="/02 - Verzweigungen/" />
+  <Folder Name="/02 - Verzweigungen/01 - Rabatte, Eingaben erkennen/" />
+  <Folder Name="/02 - Verzweigungen/02 - Zahlen raten, Aktien/" />
+  <Folder Name="/02 - Verzweigungen/03 - BMI berechnen/" />
+  <Folder Name="/02 - Verzweigungen/04 - Widerstände nach Leitwert berechnen/" />
+  <Folder Name="/02 - Verzweigungen/05 - Betrag ermittelm, kleiner Rechner/" />
+  <Folder Name="/02 - Verzweigungen/06 - switch, Noten, Ja-Nein-Frage/" />
+  <Folder Name="/03 - Schleifen/" />
+  <Folder Name="/03 - Schleifen/01 - while/" />
+  <Folder Name="/03 - Schleifen/02 - while, do-while, for - Quadratzahlen und Summe/" />
+  <Folder Name="/03 - Schleifen/03 - do-while Zahlen raten/" />
+  <Folder Name="/03 - Schleifen/04 - Weizenkornlegende/" />
+  <Folder Name="/03 - Schleifen/05 - Kondensator aufladen/" />
+  <Folder Name="/03 - Schleifen/06 - Russische Multiplikation/" />
+  <Folder Name="/04 - Datentypen/" />
+  <Folder Name="/04 - Datentypen/01 - Einfache Verarbeitung von Strings/" />
+  <Folder Name="/04 - Datentypen/02 - Verarbeitung von Strings/" />
+  <Folder Name="/05 - Arrays/" />
+  <Folder Name="/05 - Arrays/01 - Befüllen und Berechnungen durchführen/" />
+  <Folder Name="/05 - Arrays/02 - Suchen auf dem Array/" />
+  <Folder Name="/05 - Arrays/03 - Wechselgeld ausgeben/" />
+  <Folder Name="/05 - Arrays/04 - Lottozahlen und Häufigkeiten/" />
+  <Folder Name="/05 - Arrays/05 - Passwortgenerator/" />
+  <Folder Name="/05 - Arrays/06 - Sortieren/" />
+  <Folder Name="/06 - Funktionen/" />
+  <Folder Name="/06 - Funktionen/01 - Einfache Funktionen/" />
+  <Folder Name="/06 - Funktionen/01a - Ganz einfache Funktionen/" />
+  <Folder Name="/06 - Funktionen/02 - Einfache Funktionen - Arrays/" />
+  <Folder Name="/06 - Funktionen/03 - Einfache Funktionen - Primzahlsieb/" />
+  <Folder Name="/06 - Funktionen/04 - Einfache Funktionen - Arrays sortieren/" />
+  <Folder Name="/06 - Funktionen/Kartons stapeln/" />
+  <Folder Name="/06a - Rekursion/" />
+  <Folder Name="/06a - Rekursion/02 - Ggt/" />
+  <Folder Name="/06a - Rekursion/03 - Fibonacci/" />
+  <Folder Name="/06a - Rekursion/04 - Linien/" />
+  <Folder Name="/06a - Rekursion/06 - Dreieck/" />
+  <Folder Name="/07 - Dateien/" />
+  <Folder Name="/07 - Dateien/01 - Einfache Dateioperationen/" />
+  <Folder Name="/07 - Dateien/02 - komplexere Dateioperationen/" />
+  <Folder Name="/08 - Struktur/" />
+  <Folder Name="/08 - Struktur/01 - Personen-Kalender/" />
+  <Folder Name="/08 - Struktur/02 - Spieler-Bruch/" />
+  <Folder Name="/08 - Struktur/03 - Produktverwaltung/" />
+  <Folder Name="/Zusatzaufgaben/" />
+  <Folder Name="/Zusatzaufgaben/Arrays_Schleifen/" />
+  <Folder Name="/Zusatzaufgaben/Lottoschein/" />
+</Solution>
