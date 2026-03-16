@@ -1,0 +1,47 @@
+[
+  {
+    "Artikelnummer": 101,
+    "Name": "Lichtschwert Rot",
+    "Preis": 100
+  },
+  {
+    "Artikelnummer": 102,
+    "Name": "Lichtschwert Blau",
+    "Preis": 120
+  },
+  {
+    "Artikelnummer": 103,
+    "Name": "Lichtschwert Blau",
+    "Preis": 130
+  },
+  {
+    "Artikelnummer": 111,
+    "Name": "Protonenbeschleuniger (nichtlizensiert)",
+    "Preis": 555
+  },
+  {
+    "Artikelnummer": 112,
+    "Name": "Protonenbeschleuniger (lizensiert)",
+    "Preis": 1200
+  },
+  {
+    "Artikelnummer": 121,
+    "Name": "T-800",
+    "Preis": 800
+  },
+  {
+    "Artikelnummer": 122,
+    "Name": "T-1000",
+    "Preis": 1000
+  },
+  {
+    "Artikelnummer": 131,
+    "Name": "Tricorder ToS",
+    "Preis": 85
+  },
+  {
+    "Artikelnummer": 132,
+    "Name": "Tricorder TnG",
+    "Preis": 125
+  }
+]

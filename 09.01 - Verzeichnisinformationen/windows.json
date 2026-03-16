@@ -1,0 +1,442 @@
+[
+  {
+    "Pfad": "C:\\Windows\\addins",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 1
+  },
+  {
+    "Pfad": "C:\\Windows\\appcompat",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\apppatch",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 7
+  },
+  {
+    "Pfad": "C:\\Windows\\AppReadiness",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\ASRock",
+    "Erstelldatum": "06.01.2025",
+    "AnzahlDateien": 2
+  },
+  {
+    "Pfad": "C:\\Windows\\assembly",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 4
+  },
+  {
+    "Pfad": "C:\\Windows\\bcastdvr",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 2
+  },
+  {
+    "Pfad": "C:\\Windows\\BitLockerDiscoveryVolumeContents",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 41
+  },
+  {
+    "Pfad": "C:\\Windows\\Boot",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 1
+  },
+  {
+    "Pfad": "C:\\Windows\\Branding",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\CbsTemp",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\Containers",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 1
+  },
+  {
+    "Pfad": "C:\\Windows\\CSC",
+    "Erstelldatum": "06.10.2018",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\Cursors",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 206
+  },
+  {
+    "Pfad": "C:\\Windows\\de-DE",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 9
+  },
+  {
+    "Pfad": "C:\\Windows\\debug",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 3
+  },
+  {
+    "Pfad": "C:\\Windows\\diagnostics",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\DiagTrack",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 7
+  },
+  {
+    "Pfad": "C:\\Windows\\DigitalLocker",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\Downloaded Program Files",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 1
+  },
+  {
+    "Pfad": "C:\\Windows\\ELAMBKUP",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 1
+  },
+  {
+    "Pfad": "C:\\Windows\\en-US",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 9
+  },
+  {
+    "Pfad": "C:\\Windows\\Fonts",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 619
+  },
+  {
+    "Pfad": "C:\\Windows\\GameBarPresenceWriter",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\Globalization",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\Help",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\IdentityCRL",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 1
+  },
+  {
+    "Pfad": "C:\\Windows\\IME",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 1
+  },
+  {
+    "Pfad": "C:\\Windows\\ImmersiveControlPanel",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 9
+  },
+  {
+    "Pfad": "C:\\Windows\\InboxApps",
+    "Erstelldatum": "06.01.2024",
+    "AnzahlDateien": 4
+  },
+  {
+    "Pfad": "C:\\Windows\\INF",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 1434
+  },
+  {
+    "Pfad": "C:\\Windows\\InfusedApps",
+    "Erstelldatum": "12.04.2018",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\InputMethod",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\Installer",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 811
+  },
+  {
+    "Pfad": "C:\\Windows\\L2Schemas",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 19
+  },
+  {
+    "Pfad": "C:\\Windows\\LanguageOverlayCache",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\LastGood.Tmp",
+    "Erstelldatum": "28.01.2026",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\LiveKernelReports",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\Logs",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 1
+  },
+  {
+    "Pfad": "C:\\Windows\\Media",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 88
+  },
+  {
+    "Pfad": "C:\\Windows\\Microsoft.NET",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\Migration",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\Minidump",
+    "Erstelldatum": "10.01.2025",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\ModemLogs",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\OCR",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\Offline Web Pages",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 1
+  },
+  {
+    "Pfad": "C:\\Windows\\Panther",
+    "Erstelldatum": "18.05.2022",
+    "AnzahlDateien": 40
+  },
+  {
+    "Pfad": "C:\\Windows\\Performance",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\PLA",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\PolicyDefinitions",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 215
+  },
+  {
+    "Pfad": "C:\\Windows\\Prefetch",
+    "Erstelldatum": "18.05.2022",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\PrintDialog",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 7
+  },
+  {
+    "Pfad": "C:\\Windows\\Provisioning",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 5
+  },
+  {
+    "Pfad": "C:\\Windows\\Registration",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 1
+  },
+  {
+    "Pfad": "C:\\Windows\\RemotePackages",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\rescache",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\Resources",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\SchCache",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\schemas",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\security",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\ServiceProfiles",
+    "Erstelldatum": "18.05.2022",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\ServiceState",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\servicing",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 4
+  },
+  {
+    "Pfad": "C:\\Windows\\Setup",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\ShellComponents",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 2
+  },
+  {
+    "Pfad": "C:\\Windows\\ShellExperiences",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 24
+  },
+  {
+    "Pfad": "C:\\Windows\\SKB",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\SoftwareDistribution",
+    "Erstelldatum": "18.05.2022",
+    "AnzahlDateien": 1
+  },
+  {
+    "Pfad": "C:\\Windows\\softwaredistribution.bak",
+    "Erstelldatum": "18.05.2022",
+    "AnzahlDateien": 1
+  },
+  {
+    "Pfad": "C:\\Windows\\SoftwareDistribution.old",
+    "Erstelldatum": "06.10.2018",
+    "AnzahlDateien": 1
+  },
+  {
+    "Pfad": "C:\\Windows\\Speech",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\Speech_OneCore",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\System",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\System32",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 4837
+  },
+  {
+    "Pfad": "C:\\Windows\\SystemApps",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\SystemResources",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 142
+  },
+  {
+    "Pfad": "C:\\Windows\\SystemTemp",
+    "Erstelldatum": "18.05.2022",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\SysWOW64",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 3025
+  },
+  {
+    "Pfad": "C:\\Windows\\TAPI",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\Tasks",
+    "Erstelldatum": "12.04.2018",
+    "AnzahlDateien": 2
+  },
+  {
+    "Pfad": "C:\\Windows\\Temp",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\TextInput",
+    "Erstelldatum": "19.03.2019",
+    "AnzahlDateien": 2
+  },
+  {
+    "Pfad": "C:\\Windows\\tracing",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\twain_32",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 1
+  },
+  {
+    "Pfad": "C:\\Windows\\Vss",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\WaaS",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\Web",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 0
+  },
+  {
+    "Pfad": "C:\\Windows\\WinSxS",
+    "Erstelldatum": "07.12.2019",
+    "AnzahlDateien": 1
+  }
+]

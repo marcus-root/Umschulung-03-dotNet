@@ -35,6 +35,7 @@
   </Folder>
   <Folder Name="/09 - Serialisierung/">
     <Project Path="09.01 - Verzeichnisinformationen/09.01 - Verzeichnisinformationen.csproj" Id="8e13861b-f96e-426a-b9be-f8f078b241d5" />
+    <Project Path="09.02 - Produkte (WPF)/09.02 - Produkte (WPF).csproj" Id="42a1011f-cfd4-4958-b2d3-24142d85552d" />
     <Project Path="09.02 - Produkte/09.02 - Produkte.csproj" Id="891c3352-c5b5-4503-bed8-a4e497ae3920" />
     <Project Path="09.03 - FizzBuzz/09.03 - FizzBuzz.csproj" Id="359859ea-1f63-40d9-a1b0-37ed8490bdcf" />
   </Folder>
@@ -45,5 +46,8 @@
   <Folder Name="/12 - LinQ/">
     <Project Path="12.01 - Filter-Operationen &amp; Aggregationen/12.01 - Filter-Operationen &amp; Aggregationen.csproj" Id="94e14561-55fa-4f1e-b682-457bed8fc835" />
     <Project Path="12.02 - Sortieren &amp; Partitionieren/12.02 - Sortieren &amp; Partitionieren.csproj" Id="668c07e8-4698-4985-8569-e807444910bf" />
+    <Project Path="12.03 - Gruppierung &amp; Mengenoperationen/12.03 - Gruppierung &amp; Mengenoperationen.csproj" Id="f85605b5-7b53-4473-a26a-690282e5e593" />
+    <Project Path="12.04 - Durchschnitt von Kategorien/12.04 - Durchschnitt von Kategorien.csproj" Id="4f2b2b5a-8e01-4984-8d58-b9def9e13651" />
+    <Project Path="12.05 - Bestellung/12.05 - Bestellung.csproj" Id="e8306cd1-34af-47ac-9705-20e54d49645f" />
   </Folder>
 </Solution>

@@ -1,0 +1,20 @@
+{
+  "AllePositionen" :
+  [
+    {
+      "Id": 1,
+      "Artikelnummer": 111,
+      "Anzahl": 2
+    },
+    {
+      "Id": 2,
+      "Artikelnummer": 121,
+      "Anzahl": 1
+    },
+    {
+      "Id": 3,
+      "Artikelnummer": 101,
+      "Anzahl": 3
+    }
+  ]  
+}
